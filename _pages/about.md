@@ -12,7 +12,6 @@ I am currently a first-year Ph.D. student at University of Virginia, advised by 
 
 Publications
 ------
-## Preprints
 1. PPSGCN: A Privacy-Preserving Subgraph Sampling Based Distributed GCN Training Method. [\[PDF\]](https://arxiv.org/pdf/2110.12906.pdf) [\[Code\]](https://www.dropbox.com/sh/hetdibd8x3ktjjc/AAAxpr8fsEMR12_pBMk4S5lxa?dl=0) <br> **Binchi Zhang**, Minnan Luo, Shangbin Feng, Ziqi Liu, Jun Zhou, Qinghua Zheng <br>
 arXiv preprint arXiv:2110.12906
 
