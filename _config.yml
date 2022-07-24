@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Binchi Zhang"
-  avatar           : "profile.png"
+  avatar           : "selfie.png"
   bio              : "Ph.D. student @ University of Virginia, interested in graph mining and federated learning"
   location         : "Charlottesville, US"
 #  employer         :
