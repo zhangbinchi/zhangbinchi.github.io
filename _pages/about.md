@@ -13,10 +13,10 @@ I am currently a first-year Ph.D. student starting from 2022 fall semester at Un
 Publications
 ------
 1. **PPSGCN: A Privacy-Preserving Subgraph Sampling Based Distributed GCN Training Method.** [\[PDF\]](https://arxiv.org/pdf/2110.12906.pdf) [\[Code\]](https://www.dropbox.com/sh/hetdibd8x3ktjjc/AAAxpr8fsEMR12_pBMk4S5lxa?dl=0) <br> **Binchi Zhang**, Minnan Luo, Shangbin Feng, Ziqi Liu, Jun Zhou, Qinghua Zheng <br>
-arXiv preprint arXiv:2110.12906
+arXiv preprint [arXiv:2110.12906](https://arxiv.org/abs/2110.12906)
 
 2. **TwiBot-22: Towards Graph-Based Twitter Bot Detection.** [\[PDF\]](https://arxiv.org/pdf/2206.04564.pdf) [\[Code\]](https://twibot22.github.io/)  <br> Shangbin Feng\*, Zhaoxuan Tan\*, Herun Wan\*, Ningnan Wang\*, Zilong Chen\*, **Binchi Zhang\***, Qinghua Zheng, Wenqian Zhang, Zhenyu Lei, Shujie Yang, Xinshun Feng, Qingyue Zhang, Hongrui Wang, Yuhan Liu, Yuyang Bai, Heng Wang, Zijian Cai, Yanbo Wang, Lijing Zheng, Zihan Ma, Jundong Li, Minnan Luo <br>
-arXiv preprint arXiv:2206.04564
+arXiv preprint [arXiv:2206.04564](https://arxiv.org/abs/2206.04564)
 
 3. **Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications.** <br> Xingbo Fu, **Binchi Zhang**, Yushun Dong, Chen Chen, Jundong Li <br>
 In submission of [SIGKDD explorations](https://kdd.org/explorations)
