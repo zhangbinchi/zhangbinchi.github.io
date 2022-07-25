@@ -26,7 +26,7 @@ In submission of [CIKM 2022](https://www.cikm2022.org/)
 
 Services
 ------
-**Reviewer:** NeurIPS 2022, ICML 2022.
+**Reviewer:** [NeurIPS 2022](https://nips.cc/Conferences/2022), [ICML 2022](https://icml.cc/Conferences/2022).
 
 <!-- A data-driven personal website
 ======
