@@ -15,11 +15,11 @@ Publications
 1. **PPSGCN: A Privacy-Preserving Subgraph Sampling Based Distributed GCN Training Method.** [\[PDF\]](https://arxiv.org/pdf/2110.12906.pdf) [\[Code\]](https://www.dropbox.com/sh/hetdibd8x3ktjjc/AAAxpr8fsEMR12_pBMk4S5lxa?dl=0) <br> **Binchi Zhang**, Minnan Luo, Shangbin Feng, Ziqi Liu, Jun Zhou, Qinghua Zheng <br>
 arXiv preprint [arXiv:2110.12906](https://arxiv.org/abs/2110.12906)
 
-2. **TwiBot-22: Towards Graph-Based Twitter Bot Detection.** [\[PDF\]](https://arxiv.org/pdf/2206.04564.pdf) [\[Code\]](https://twibot22.github.io/)  <br> Shangbin Feng\*, Zhaoxuan Tan\*, Herun Wan\*, Ningnan Wang\*, Zilong Chen\*, **Binchi Zhang\***, Qinghua Zheng, Wenqian Zhang, Zhenyu Lei, Shujie Yang, Xinshun Feng, Qingyue Zhang, Hongrui Wang, Yuhan Liu, Yuyang Bai, Heng Wang, Zijian Cai, Yanbo Wang, Lijing Zheng, Zihan Ma, Jundong Li, Minnan Luo <br>
+2. **TwiBot-22: Towards Graph-Based Twitter Bot Detection.** [\[PDF\]](https://arxiv.org/pdf/2206.04564.pdf) [\[Code\]](https://twibot22.github.io/) <br> Shangbin Feng\*, Zhaoxuan Tan\*, Herun Wan\*, Ningnan Wang\*, Zilong Chen\*, **Binchi Zhang\***, Qinghua Zheng, Wenqian Zhang, Zhenyu Lei, Shujie Yang, Xinshun Feng, Qingyue Zhang, Hongrui Wang, Yuhan Liu, Yuyang Bai, Heng Wang, Zijian Cai, Yanbo Wang, Lijing Zheng, Zihan Ma, Jundong Li, Minnan Luo <br>
 arXiv preprint [arXiv:2206.04564](https://arxiv.org/abs/2206.04564)
 
-3. **Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications.** <br> Xingbo Fu, **Binchi Zhang**, Yushun Dong, Chen Chen, Jundong Li <br>
-In submission of [SIGKDD explorations](https://kdd.org/explorations)
+3. **Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications.** [\[PDF\]](https://arxiv.org/pdf/2207.11812.pdf) <br> Xingbo Fu, **Binchi Zhang**, Yushun Dong, Chen Chen, Jundong Li <br>
+arXiv preprint [arXiv:2207.11812](https://arxiv.org/abs/2207.11812)
 
 4. **AHEAD: A Triple Attention Based Heterogeneous Graph Anomaly Detection Approach** [\[Code\]](https://www.dropbox.com/sh/de0ogy5dd592lm4/AAAGTowL6CNYeUUIfIpjKPC6a?dl=0) <br> Shujie Yang, **Binchi Zhang**, Shangbin Feng, Zhaoxuan Tan, Qinghua Zheng, Ziqi Liu, Minnan Luo <br>
 In submission of [CIKM 2022](https://www.cikm2022.org/)
