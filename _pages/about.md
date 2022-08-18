@@ -22,7 +22,7 @@ arXiv preprint [arXiv:2206.04564](https://arxiv.org/abs/2206.04564)
 arXiv preprint [arXiv:2207.11812](https://arxiv.org/abs/2207.11812)
 
 4. **AHEAD: A Triple Attention Based Heterogeneous Graph Anomaly Detection Approach** [\[Code\]](https://www.dropbox.com/sh/de0ogy5dd592lm4/AAAGTowL6CNYeUUIfIpjKPC6a?dl=0) <br> Shujie Yang, **Binchi Zhang**, Shangbin Feng, Zhaoxuan Tan, Qinghua Zheng, Ziqi Liu, Minnan Luo <br>
-In submission of [CIKM 2022](https://www.cikm2022.org/)
+arXiv preprint [arXiv:2208.08200](https://arxiv.org/abs/2208.08200)
 
 Services
 ------
