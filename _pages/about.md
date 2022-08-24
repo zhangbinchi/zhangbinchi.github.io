@@ -21,7 +21,7 @@ arXiv preprint [arXiv:2206.04564](https://arxiv.org/abs/2206.04564)
 3. **Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications.** [\[PDF\]](https://arxiv.org/pdf/2207.11812.pdf) <br> Xingbo Fu, **Binchi Zhang**, Yushun Dong, Chen Chen, Jundong Li <br>
 arXiv preprint [arXiv:2207.11812](https://arxiv.org/abs/2207.11812)
 
-4. **AHEAD: A Triple Attention Based Heterogeneous Graph Anomaly Detection Approach** [\[Code\]](https://www.dropbox.com/sh/de0ogy5dd592lm4/AAAGTowL6CNYeUUIfIpjKPC6a?dl=0) <br> Shujie Yang, **Binchi Zhang**, Shangbin Feng, Zhaoxuan Tan, Qinghua Zheng, Ziqi Liu, Minnan Luo <br>
+4. **AHEAD: A Triple Attention Based Heterogeneous Graph Anomaly Detection Approach** [\[PDF\]](https://arxiv.org/pdf/2208.08200.pdf) [\[Code\]](https://www.dropbox.com/sh/de0ogy5dd592lm4/AAAGTowL6CNYeUUIfIpjKPC6a?dl=0) <br> Shujie Yang, **Binchi Zhang**, Shangbin Feng, Zhaoxuan Tan, Qinghua Zheng, Ziqi Liu, Minnan Luo <br>
 arXiv preprint [arXiv:2208.08200](https://arxiv.org/abs/2208.08200)
 
 Services
