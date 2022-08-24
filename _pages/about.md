@@ -26,7 +26,7 @@ arXiv preprint [arXiv:2208.08200](https://arxiv.org/abs/2208.08200)
 
 Services
 ------
-**Reviewer:** [NeurIPS 2022](https://nips.cc/Conferences/2022), [ICML 2022](https://icml.cc/Conferences/2022).
+**Reviewer:** NeurIPS 2022, ICML 2022.
 
 <!-- A data-driven personal website
 ======
