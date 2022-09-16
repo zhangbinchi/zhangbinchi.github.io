@@ -10,6 +10,12 @@ redirect_from:
 
 I am currently a first-year Ph.D. student starting from 2022 fall semester at University of Virginia, advised by [Dr. Jundong Li](http://www.ece.virginia.edu/~jl6qk). Prior to joining University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked in [LUD Lab](https://luoundergradxjtu.github.io/) advised by [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include graph mining and federated learning.
 
+News
+-----
+- \[09/2022\] One paper is accepted by CIKM 2022 FedGraph Workshop.
+- \[08/2022\] I join Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk)'s group as a Ph.D. student at University of Virginia.
+- \[07/2022\] I graduate from Xi'an Jiaotong University as honorary graduate of Qian Xuesen College.
+
 Publications
 ------
 1. **PPSGCN: A Privacy-Preserving Subgraph Sampling Based Distributed GCN Training Method.** [\[PDF\]](https://arxiv.org/pdf/2110.12906.pdf) [\[Code\]](https://www.dropbox.com/sh/hetdibd8x3ktjjc/AAAxpr8fsEMR12_pBMk4S5lxa?dl=0) <br> **Binchi Zhang**, Minnan Luo, Shangbin Feng, Ziqi Liu, Jun Zhou, Qinghua Zheng <br>
