@@ -14,7 +14,7 @@ News
 -----
 - \[09/2022\] One paper is accepted by CIKM 2022 FedGraph Workshop.
 - \[08/2022\] I join Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk)'s group as a Ph.D. student at University of Virginia.
-- \[07/2022\] I graduate from Xi'an Jiaotong University as honorary graduate of Qian Xuesen College.
+- \[07/2022\] I graduate from Xi'an Jiaotong University as a honorary graduate of Qian Xuesen College.
 
 Publications
 ------
