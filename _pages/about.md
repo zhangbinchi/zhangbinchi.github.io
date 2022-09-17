@@ -12,6 +12,7 @@ I am currently a first-year Ph.D. student starting from 2022 fall semester at Un
 
 News
 -----
+- \[09/2022\] One paper is accepted by NeurIPS 2022 Datasets and Benchmarks Track.
 - \[09/2022\] One paper is accepted by CIKM 2022 FedGraph Workshop.
 - \[08/2022\] I join Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk)'s group as a Ph.D. student at University of Virginia.
 - \[07/2022\] I graduate from Xi'an Jiaotong University as honorary graduate of Qian Xuesen College.
