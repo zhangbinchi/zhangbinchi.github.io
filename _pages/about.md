@@ -18,7 +18,7 @@ News
 - \[08/2022\] I join Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk)'s group as a Ph.D. student at University of Virginia.
 - \[07/2022\] I graduate from Xi'an Jiaotong University as honorary graduate of Qian Xuesen College.
 
-Publications
+<!-- Publications
 ------
 1. **PPSGCN: A Privacy-Preserving Subgraph Sampling Based Distributed GCN Training Method.** [\[PDF\]](https://arxiv.org/pdf/2110.12906.pdf) [\[Code\]](https://www.dropbox.com/sh/hetdibd8x3ktjjc/AAAxpr8fsEMR12_pBMk4S5lxa?dl=0) <br> **Binchi Zhang**, Minnan Luo, Shangbin Feng, Ziqi Liu, Jun Zhou, Qinghua Zheng <br>
 arXiv preprint [arXiv:2110.12906](https://arxiv.org/abs/2110.12906)
@@ -30,7 +30,7 @@ arXiv preprint [arXiv:2206.04564](https://arxiv.org/abs/2206.04564)
 arXiv preprint [arXiv:2207.11812](https://arxiv.org/abs/2207.11812)
 
 4. **AHEAD: A Triple Attention Based Heterogeneous Graph Anomaly Detection Approach** [\[PDF\]](https://arxiv.org/pdf/2208.08200.pdf) [\[Code\]](https://www.dropbox.com/sh/de0ogy5dd592lm4/AAAGTowL6CNYeUUIfIpjKPC6a?dl=0) <br> Shujie Yang, **Binchi Zhang**, Shangbin Feng, Zhaoxuan Tan, Qinghua Zheng, Ziqi Liu, Minnan Luo <br>
-arXiv preprint [arXiv:2208.08200](https://arxiv.org/abs/2208.08200)
+arXiv preprint [arXiv:2208.08200](https://arxiv.org/abs/2208.08200) -->
 
 Services
 ------
