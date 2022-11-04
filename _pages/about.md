@@ -10,10 +10,9 @@ redirect_from:
 
 I am currently a first-year Ph.D. student starting from 2022 fall semester at University of Virginia, advised by [Dr. Jundong Li](http://www.ece.virginia.edu/~jl6qk). Prior to joining University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked in [LUD Lab](https://luoundergradxjtu.github.io/) advised by [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include graph mining, federated learning and trustworthy machine learning.
 
-<div align='center'>
+<!-- <div align='center'>
 <a href="epb6gw@virginia.edu">Email</a> / <a href="https://github.com/zhangbinchi/zhangbinchi.github.io/blob/master/files/CV_zbc.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=c8Z36PAAAAAJ&hl=zh-CN">Google Scholar</a> / <a href="https://github.com/zhangbinchi">GitHub</a> / <a href="https://www.linkedin.com/in/binchi-zhang-274922221/">LinkedIn</a> / <a href="https://twitter.com/zhangbinchi3">Twitter</a>
-<!-- [Email](epb6gw@virginia.edu) / [CV](https://github.com/zhangbinchi/zhangbinchi.github.io/blob/master/files/CV_zbc.pdf) / [Google Scholar](https://scholar.google.com/citations?user=c8Z36PAAAAAJ&hl=zh-CN) / [GitHub](https://github.com/zhangbinchi) / [LinkedIn](https://www.linkedin.com/in/binchi-zhang-274922221/) / [Twitter](https://twitter.com/zhangbinchi3) -->
-</div>
+</div> -->
 
 News
 -----
