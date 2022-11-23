@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-(* indicates equal contribution)
+(***** indicates equal contribution)
 
 1. **TwiBot-22: Towards Graph-Based Twitter Bot Detection.** [\[PDF\]](https://arxiv.org/pdf/2206.04564.pdf) [\[Code\]](https://twibot22.github.io/) <br> Shangbin Feng\*, Zhaoxuan Tan\*, Herun Wan\*, Ningnan Wang\*, Zilong Chen\*, **Binchi Zhang\***, Qinghua Zheng, Wenqian Zhang, Zhenyu Lei, Shujie Yang, Xinshun Feng, Qingyue Zhang, Hongrui Wang, Yuhan Liu, Yuyang Bai, Heng Wang, Zijian Cai, Yanbo Wang, Lijing Zheng, Zihan Ma, Jundong Li, Minnan Luo. <br>
 NeurIPS 2022 Datasets and Benchmarks Track.
