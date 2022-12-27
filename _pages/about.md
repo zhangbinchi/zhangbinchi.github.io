@@ -15,7 +15,7 @@ News
 - \[12/2022\] One paper is accepted by SDM 2023.
 - \[09/2022\] One paper is accepted by SIGKDD Explorations.
 - \[09/2022\] One paper is accepted by NeurIPS 2022 (Datasets and Benchmarks Track).
-- \[09/2022\] One paper (a short version) is accepted as spotlight by CIKM 2022 FedGraph Workshop.
+- \[09/2022\] One paper is accepted as spotlight by CIKM 2022 FedGraph Workshop.
 - \[08/2022\] I join [Dr. Jundong Li](http://www.ece.virginia.edu/~jl6qk)'s group as a Ph.D. student at University of Virginia.
 - \[07/2022\] I graduate from Xi'an Jiaotong University as honorary graduate of Qian Xuesen College.
 
