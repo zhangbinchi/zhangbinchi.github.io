@@ -15,7 +15,7 @@ NeurIPS 2022 (Datasets and Benchmarks Track).
 
 3. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3575637.3575644) <br> 
 Xingbo Fu, **Binchi Zhang**, Yushun Dong, Chen Chen, Jundong Li. <br>
-SIGKDD Explorations. <br>
+SIGKDD Explorations Newsletter, 2022, 24(2): 32-47. <br>
 A short version is accepted by FedGraph Workshop at CIKM 2022.
 
 4. AHEAD: A Triple Attention Based Heterogeneous Graph Anomaly Detection Approach. [\[PDF\]](https://arxiv.org/pdf/2208.08200.pdf) [\[Code\]](https://www.dropbox.com/sh/de0ogy5dd592lm4/AAAGTowL6CNYeUUIfIpjKPC6a?dl=0) <br> 
