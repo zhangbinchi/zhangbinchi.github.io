@@ -21,8 +21,7 @@ News
 
 Service
 ------
-- **Reviewer:** AAAI 2023, NeurIPS 2022 Datasets and Benchmarks Track, ICML 2022, TNNLS.
-- **Subreviewer:** WWW 2023.
+- **Reviewer/Subreviewer:** AAAI, CIKM, WWW, NeurIPS Datasets and Benchmarks Track, ICML, TNNLS.
 
 <!-- A data-driven personal website
 ======
