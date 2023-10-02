@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 (**\*** indicates equal contribution)
-1. RELIANT: Fair Knowledge Distillation for Graph Neural Networks. [\[PDF\]](https://zhangbinchi.github.io/publications/) [\[Code\]](https://zhangbinchi.github.io/publications/) <br> 
+1. RELIANT: Fair Knowledge Distillation for Graph Neural Networks. [\[PDF\]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch18) [\[Code\]](https://github.com/yushundong/RELIANT) <br> 
 Yushun Dong, **Binchi Zhang**, Yiling Yuan, Na Zou, Qi Wang, Jundong Li. <br>
 SDM 2023.
 
