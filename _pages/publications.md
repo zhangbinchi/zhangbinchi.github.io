@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 (**\*** indicates equal contribution)
+1. Adversarial Attacks on Fairness of Graph Neural Networks. [\[PDF\]](https://arxiv.org/pdf/2310.13822.pdf) [\[Code\]](https://github.com/zhangbinchi/G-FairAttack) <br>
+**Binchi Zhang**, Yushun Dong, Chen Chen, Yada Zhu, Minnan Luo, Jundong Li. <br>
+ICLR 2024.
+
 1. AHEAD: A Triple Attention Based Heterogeneous Graph Anomaly Detection Approach. [\[PDF\]](https://arxiv.org/pdf/2208.08200.pdf) [\[Code\]](https://www.dropbox.com/sh/de0ogy5dd592lm4/AAAGTowL6CNYeUUIfIpjKPC6a?dl=0) <br> 
 Shujie Yang, **Binchi Zhang**, Shangbin Feng, Zhaoxuan Tan, Qinghua Zheng, Ziqi Liu, Minnan Luo. <br>
 CIAC 2023 (Best Application Paper Finalist).
@@ -21,10 +25,6 @@ NeurIPS 2022 (Datasets and Benchmarks Track).
 Xingbo Fu, **Binchi Zhang**, Yushun Dong, Chen Chen, Jundong Li. <br>
 SIGKDD Explorations Newsletter, 2022, 24(2): 32-47. <br>
 A short version is accepted by FedGraph Workshop at CIKM 2022.
-
-1. Adversarial Attacks on Fairness of Graph Neural Networks. [\[PDF\]](https://arxiv.org/pdf/2310.13822.pdf) [\[Code\]](https://github.com/zhangbinchi/G-FairAttack) <br>
-**Binchi Zhang**, Yushun Dong, Chen Chen, Yada Zhu, Minnan Luo, Jundong Li. <br>
-ArXiv preprint arXiv:2310.13822.
 
 1. ELEGANT: Certified Defense on the Fairness of Graph Neural Networks. [\[PDF\]](https://arxiv.org/pdf/2311.02757.pdf) [\[Code\]](https://github.com/yushundong/ELEGANT) <br>
 Yushun Dong, **Binchi Zhang**, Hanghang Tong, Jundong Li. <br>
