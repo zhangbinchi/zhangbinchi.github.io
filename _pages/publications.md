@@ -24,7 +24,7 @@ NeurIPS 2022 (Datasets and Benchmarks Track).
 1. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3575637.3575644) <br> 
 Xingbo Fu, **Binchi Zhang**, Yushun Dong, Chen Chen, Jundong Li. <br>
 SIGKDD Explorations Newsletter, 2022, 24(2): 32-47. <br>
-A short version is accepted by FedGraph Workshop at CIKM 2022.
+FedGraph Workshop (spotlight), CIKM 2022.
 
 1. ELEGANT: Certified Defense on the Fairness of Graph Neural Networks. [\[PDF\]](https://arxiv.org/pdf/2311.02757.pdf) [\[Code\]](https://github.com/yushundong/ELEGANT) <br>
 Yushun Dong, **Binchi Zhang**, Hanghang Tong, Jundong Li. <br>
