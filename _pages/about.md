@@ -22,7 +22,7 @@ News
 
 Service
 ------
-- **Reviewer/Subreviewer:** AAAI, CIKM, WWW, NeurIPS Datasets and Benchmarks Track, ICML, TNNLS.
+- **Reviewer/Subreviewer:** ICML, AAAI, CIKM, WWW, NeurIPS Datasets and Benchmarks Track, TNNLS.
 
 <!-- A data-driven personal website
 ======
