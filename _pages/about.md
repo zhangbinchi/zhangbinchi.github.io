@@ -26,7 +26,7 @@ Service
 Miscellaneous
 -----
 - I like playing tennis and pool games.
-- I am a classical piano player. My favorite composer is Chopin. Here are some of my favorite [classical pieces](https://zhangbinchi.github.io/pieces/).
+- I am an amateur classical piano player. My favorite composer is Chopin. Here are some of my favorite [classical pieces](https://zhangbinchi.github.io/pieces/).
 
 <!-- A data-driven personal website
 ======
