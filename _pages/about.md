@@ -16,7 +16,7 @@ News
 - \[01/2024\] One paper is accepted by ICLR 2024.
 - \[12/2022\] One paper is accepted by SDM 2023.
 - \[09/2022\] One paper is accepted by SIGKDD Explorations.
-- \[09/2022\] One paper is accepted by NeurIPS 2022 (Datasets and Benchmarks Track).
+- \[09/2022\] One paper is accepted by NeurIPS 2022 Datasets and Benchmarks Track.
 - \[09/2022\] One paper is accepted (spotlight) by FedGraph @ CIKM 2022.
 
 Service
@@ -26,7 +26,7 @@ Service
 Miscellaneous
 -----
 - I like playing tennis and pool games.
-- I am a classical piano player. My favorite composer is Chopin. Here are some of my favorite [classical pieces](https://zhangbinchi.github.io/).
+- I am a classical piano player. My favorite composer is Chopin. Here are some of my favorite [classical pieces](https://zhangbinchi.github.io/pieces/).
 
 <!-- A data-driven personal website
 ======
