@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 (**\*** indicates equal contribution)
+1. Verification of Machine Unlearning is Fragile. <br>
+**Binchi Zhang**, Zihan Chen, Cong Shen, Jundong Li. <br>
+ICML 2024.
+
+1. Towards Certified Unlearning for Deep Neural Networks. <br>
+**Binchi Zhang**, Yushun Dong, Tianhao Wang, Jundong Li. <br>
+ICML 2024.
+
 1. Adversarial Attacks on Fairness of Graph Neural Networks. [\[PDF\]](https://arxiv.org/pdf/2310.13822.pdf) [\[Code\]](https://github.com/zhangbinchi/G-FairAttack) <br>
 **Binchi Zhang**, Yushun Dong, Chen Chen, Yada Zhu, Minnan Luo, Jundong Li. <br>
 ICLR 2024.
@@ -19,7 +27,7 @@ SDM 2023.
 
 1. TwiBot-22: Towards Graph-Based Twitter Bot Detection. [\[PDF\]](https://arxiv.org/pdf/2206.04564.pdf) [\[Code\]](https://twibot22.github.io/) <br> 
 Shangbin Feng\*, Zhaoxuan Tan\*, Herun Wan\*, Ningnan Wang\*, Zilong Chen\*, **Binchi Zhang\***, Qinghua Zheng, Wenqian Zhang, Zhenyu Lei, Shujie Yang, Xinshun Feng, Qingyue Zhang, Hongrui Wang, Yuhan Liu, Yuyang Bai, Heng Wang, Zijian Cai, Yanbo Wang, Lijing Zheng, Zihan Ma, Jundong Li, Minnan Luo. <br>
-NeurIPS 2022 (Datasets and Benchmarks Track).
+NeurIPS 2022 Datasets and Benchmarks Track.
 
 1. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3575637.3575644) <br> 
 Xingbo Fu, **Binchi Zhang**, Yushun Dong, Chen Chen, Jundong Li. <br>
