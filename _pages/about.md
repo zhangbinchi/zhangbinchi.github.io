@@ -8,21 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Ph.D. student at the University of Virginia, advised by [Dr. Jundong Li](http://www.ece.virginia.edu/~jl6qk). Before joining the University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked with [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include graph mining, federated learning, and trustworthy machine learning. More details can be found in my [CV](https://zhangbinchi.github.io/files/CV_zbc.pdf).
+I am currently a second-year Ph.D. student at the University of Virginia, advised by [Dr. Jundong Li](https://jundongli.github.io/). Before joining the University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked with [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include graph mining, federated learning, and trustworthy machine learning. More details can be found in my [CV](https://zhangbinchi.github.io/files/CV_zbc.pdf).
 
 News
 -----
+- \[05/2024\] Two papers are accepted by ICML 2024.
 - \[01/2024\] One paper is accepted by ICLR 2024.
 - \[12/2022\] One paper is accepted by SDM 2023.
 - \[09/2022\] One paper is accepted by SIGKDD Explorations.
 - \[09/2022\] One paper is accepted by NeurIPS 2022 (Datasets and Benchmarks Track).
 - \[09/2022\] One paper is accepted (spotlight) by FedGraph @ CIKM 2022.
-- \[08/2022\] I join [Dr. Jundong Li](http://www.ece.virginia.edu/~jl6qk)'s group as a Ph.D. student at the University of Virginia.
-- \[07/2022\] I graduated from Xi'an Jiaotong University as an honorary graduate of Qian Xuesen College.
 
 Service
 ------
-- **Reviewer/Subreviewer:** ICML, AAAI, CIKM, WWW, NeurIPS Datasets and Benchmarks Track, TNNLS.
+- **Reviewer:** ICML (2024, 2022), AAAI (2024, 2023), CIKM (2023), WWW (2023), NeurIPS Datasets and Benchmarks Track (2022), TNNLS (2023-).
+
+Miscellaneous
+-----
+- I like playing tennis and pool games.
+- I am a classical piano player. My favorite composer is Chopin. Here are some of my favorite [classical pieces](https://zhangbinchi.github.io/).
 
 <!-- A data-driven personal website
 ======
