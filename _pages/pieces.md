@@ -9,6 +9,7 @@ Check out these awesome pieces:
 - Chopin [Nocturne in C Minor, Op. 48, No. 1](https://www.youtube.com/watch?v=h_vZtpjNKVE), played by Rubinstein.
 - Chopin [Barcarolle in F-Sharp Major, Op. 60](https://www.youtube.com/watch?v=h19WVxSpask), played by Zimmerman.
 - Chopin [Andante Spianato et Grande Polonaise Brillante in E-Flat Major, Op. 22](https://www.youtube.com/watch?v=6N8VBYNF2LA), played by Yundi Li.
+- Chopin [Polonaise in F-Sharp Minor, Op. 44](https://www.youtube.com/watch?v=Lq-ScKoB_BY), played by Horowitz.
 - Chopin [Polonaise-Fantaisie in A-Flat Major, Op. 61](https://www.youtube.com/watch?v=7_AqTY0jkCM), played by Rubinstein.
 - Chopin [Ballade No. 1 in G Minor, Op. 23](https://www.youtube.com/watch?v=X45xLfQGXaA), played by Michelangeli.
 - Chopin [Ballade No. 3 in A-Flat Major, Op. 47](https://www.youtube.com/watch?v=zl-HM_38YYg), played by Rachmaninoff.
