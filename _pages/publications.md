@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 (**\*** indicates equal contribution)
+1. IDEA: A Flexible Framework of Certified Unlearning for Graph Neural Networks. <br>
+Yushun Dong, **Binchi Zhang**, Zhenyu Lei, Na Zou, Jundong Li. <br>
+KDD 2024.
+
+1. Federated Graph Learning with Structure Proxy Alignment. <br>
+Xingbo Fu, Zihan Chen, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
+KDD 2024.
+
 1. Verification of Machine Unlearning is Fragile. <br>
 **Binchi Zhang**, Zihan Chen, Cong Shen, Jundong Li. <br>
 ICML 2024.
