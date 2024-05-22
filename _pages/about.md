@@ -22,7 +22,7 @@ News
 
 Service
 ------
-- **Reviewer:** ICML (2024, 2022), AAAI (2024, 2023), CIKM (2023), WWW (2023), NeurIPS Datasets and Benchmarks Track (2022), TNNLS (2023-).
+- **Reviewer:** NeurIPS (2024, 2022), ICML (2024, 2022), AAAI (2024, 2023), CIKM (2023), WWW (2023), TNNLS (2023-).
 
 Miscellaneous
 -----
