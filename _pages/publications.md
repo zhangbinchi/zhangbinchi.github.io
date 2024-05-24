@@ -42,13 +42,17 @@ Xingbo Fu, **Binchi Zhang**, Yushun Dong, Chen Chen, Jundong Li. <br>
 SIGKDD Explorations Newsletter, 2022, 24(2): 32-47. <br>
 A short version is accepted to FedGraph @ CIKM 2022 (spotlight).
 
+1. Safety in Graph Machine Learning: Threats and Safeguards. [\[PDF\]](https://arxiv.org/abs/2405.11034) <br>
+Song Wang, Yushun Dong, **Binchi Zhang**, Zihan Chen, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li. <br>
+ArXiv preprint arXiv:2405.11034, 2024.
+
 1. ELEGANT: Certified Defense on the Fairness of Graph Neural Networks. [\[PDF\]](https://arxiv.org/pdf/2311.02757.pdf) [\[Code\]](https://github.com/yushundong/ELEGANT) <br>
 Yushun Dong, **Binchi Zhang**, Hanghang Tong, Jundong Li. <br>
-ArXiv preprint arXiv:2311.02757.
+ArXiv preprint arXiv:2311.02757, 2023.
 
 1. PPSGCN: A Privacy-Preserving Subgraph Sampling Based Distributed GCN Training Method. [\[PDF\]](https://arxiv.org/pdf/2110.12906.pdf) [\[Code\]](https://www.dropbox.com/sh/hetdibd8x3ktjjc/AAAxpr8fsEMR12_pBMk4S5lxa?dl=0) <br> 
 **Binchi Zhang**, Minnan Luo, Shangbin Feng, Ziqi Liu, Jun Zhou, Qinghua Zheng. <br>
-ArXiv preprint arXiv:2110.12906.
+ArXiv preprint arXiv:2110.12906, 2021.
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
