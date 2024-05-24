@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Ph.D. student at the University of Virginia, advised by [Dr. Jundong Li](https://jundongli.github.io/). Before joining the University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked with [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include graph mining, federated learning, and trustworthy machine learning. More details can be found in my [CV](https://zhangbinchi.github.io/files/CV_zbc.pdf).
+I am currently a second-year Ph.D. student at the University of Virginia, advised by [Dr. Jundong Li](https://jundongli.github.io/). Before joining the University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked with [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include trustworthy machine learning, graph learning, machine unlearning, and federated learning. More details can be found in my [CV](https://zhangbinchi.github.io/files/CV_zbc.pdf).
 
 News
 -----
