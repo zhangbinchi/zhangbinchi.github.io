@@ -13,11 +13,11 @@ ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2024.
 Xingbo Fu, Zihan Chen, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2024.
 
-1. Verification of Machine Unlearning is Fragile. <br>
+1. Verification of Machine Unlearning is Fragile. [\[Code\]](https://github.com/zhangbinchi/unlearning-verification-is-fragile) <br>
 **Binchi Zhang**, Zihan Chen, Cong Shen, Jundong Li. <br>
 International Conference on Machine Learning (ICML), 2024.
 
-1. Towards Certified Unlearning for Deep Neural Networks. <br>
+1. Towards Certified Unlearning for Deep Neural Networks. [\[Code\]](https://github.com/zhangbinchi/certified-deep-unlearning) <br>
 **Binchi Zhang**, Yushun Dong, Tianhao Wang, Jundong Li. <br>
 International Conference on Machine Learning (ICML), 2024.
 
