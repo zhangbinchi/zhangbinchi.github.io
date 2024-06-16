@@ -5,19 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 (**\*** indicates equal contribution)
-1. IDEA: A Flexible Framework of Certified Unlearning for Graph Neural Networks. <br>
+1. IDEA: A Flexible Framework of Certified Unlearning for Graph Neural Networks. [\[Code\]](https://github.com/yushundong/IDEA) <br>
 Yushun Dong, **Binchi Zhang**, Zhenyu Lei, Na Zou, Jundong Li. <br>
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2024.
 
-1. Federated Graph Learning with Structure Proxy Alignment. <br>
+1. Federated Graph Learning with Structure Proxy Alignment. [\[Code\]](https://github.com/xbfu/FedSpray) <br>
 Xingbo Fu, Zihan Chen, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2024.
 
-1. Verification of Machine Unlearning is Fragile. [\[Code\]](https://github.com/zhangbinchi/unlearning-verification-is-fragile) <br>
+1. Verification of Machine Unlearning is Fragile. [\[PDF\]](https://openreview.net/pdf?id=OkChMnjF6s) [\[Code\]](https://github.com/zhangbinchi/unlearning-verification-is-fragile) <br>
 **Binchi Zhang**, Zihan Chen, Cong Shen, Jundong Li. <br>
 International Conference on Machine Learning (ICML), 2024.
 
-1. Towards Certified Unlearning for Deep Neural Networks. [\[Code\]](https://github.com/zhangbinchi/certified-deep-unlearning) <br>
+1. Towards Certified Unlearning for Deep Neural Networks. [\[PDF\]](https://openreview.net/pdf?id=1mf1ISuyS3) [\[Code\]](https://github.com/zhangbinchi/certified-deep-unlearning) <br>
 **Binchi Zhang**, Yushun Dong, Tianhao Wang, Jundong Li. <br>
 International Conference on Machine Learning (ICML), 2024.
 
