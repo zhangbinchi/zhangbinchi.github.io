@@ -12,13 +12,13 @@ I am currently a second-year Ph.D. student at the University of Virginia, advise
 
 News
 -----
+- \[07/2024\] One paper is accepted by CIKM 2024.
 - \[05/2024\] Two papers are accepted by KDD 2024.
 - \[05/2024\] Two papers are accepted by ICML 2024.
 - \[01/2024\] One paper is accepted by ICLR 2024.
 - \[12/2022\] One paper is accepted by SDM 2023.
 - \[09/2022\] One paper is accepted by SIGKDD Explorations.
 - \[09/2022\] One paper is accepted by NeurIPS 2022 Datasets and Benchmarks Track.
-- \[09/2022\] One paper is accepted (spotlight) by FedGraph @ CIKM 2022.
 
 Service
 ------
