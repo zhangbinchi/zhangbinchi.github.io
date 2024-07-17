@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 (**\*** indicates equal contribution)
+1. Understanding and Modeling Job Marketplace with Pretrained Language Models. <br>
+Yaochen Zhu, Liang Wu, Binchi Zhang, Song Wang, Qi Guo, Liangjie Hong, Luke Simon, Jundong Li. <br>
+ACM International Conference on Information and Knowledge Management (CIKM), Applied Research Paper, 2024.
+
 1. IDEA: A Flexible Framework of Certified Unlearning for Graph Neural Networks. [\[Code\]](https://github.com/yushundong/IDEA) <br>
 Yushun Dong, **Binchi Zhang**, Zhenyu Lei, Na Zou, Jundong Li. <br>
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2024.
