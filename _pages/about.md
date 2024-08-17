@@ -12,6 +12,7 @@ I am currently a second-year Ph.D. student at the University of Virginia, advise
 
 News
 -----
+- \[08/2024\] Glad to receive the UVA ECE Department Wilson Bicentennial Grad Fellowship.
 - \[07/2024\] One paper is accepted by CIKM 2024.
 - \[05/2024\] Two papers are accepted by KDD 2024.
 - \[05/2024\] Two papers are accepted by ICML 2024.
