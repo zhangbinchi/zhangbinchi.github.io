@@ -13,7 +13,7 @@ ACM International Conference on Information and Knowledge Management (CIKM), App
 Yushun Dong, **Binchi Zhang**, Zhenyu Lei, Na Zou, Jundong Li. <br>
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2024.
 
-1. Federated Graph Learning with Structure Proxy Alignment. [\[Code\]](https://github.com/xbfu/FedSpray) <br>
+1. Federated Graph Learning with Structure Proxy Alignment. [\[PDF\]](https://arxiv.org/pdf/2408.09393) [\[Code\]](https://github.com/xbfu/FedSpray) <br>
 Xingbo Fu, Zihan Chen, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2024.
 
