@@ -23,7 +23,7 @@ News
 
 Service
 ------
-- **Reviewer:** AAAI (2025, 2024, 2023), ICLR (2025), NeurIPS (2024, 2022), ICML (2024, 2022), CIKM (2023), WWW (2023), TPAMI (2024), TKDD (2024), TNNLS (2023).
+- **Reviewer:** AISTATS (2025), AAAI (2025, 2024, 2023), ICLR (2025), NeurIPS (2024, 2022), ICML (2024, 2022), CIKM (2023), WWW (2023), TPAMI (2024), TKDD (2024), TNNLS (2023).
 
 Miscellaneous
 -----
