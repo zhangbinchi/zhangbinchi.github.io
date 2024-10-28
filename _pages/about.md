@@ -12,6 +12,7 @@ I am currently a third-year Ph.D. student at the University of Virginia, advised
 
 News
 -----
+- \[10/2024\] One paper is accepted by TMLR.
 - \[08/2024\] Glad to receive the UVA ECE Department Wilson Bicentennial Grad Fellowship.
 - \[07/2024\] One paper is accepted by CIKM 2024.
 - \[05/2024\] Two papers are accepted by KDD 2024.
@@ -19,7 +20,7 @@ News
 - \[01/2024\] One paper is accepted by ICLR 2024.
 - \[12/2022\] One paper is accepted by SDM 2023.
 - \[09/2022\] One paper is accepted by SIGKDD Explorations.
-- \[09/2022\] One paper is accepted by NeurIPS 2022 Datasets and Benchmarks Track.
+<!-- - \[09/2022\] One paper is accepted by NeurIPS 2022 Datasets and Benchmarks Track. -->
 
 Service
 ------
