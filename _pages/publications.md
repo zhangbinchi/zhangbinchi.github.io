@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 (**\*** indicates equal contribution)
+1. Federated Graph Learning with Graphless Clients. [\[PDF\]] [\[Code\]] <br>
+Xingbo Fu, Song Wang, Yushun Dong, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
+Transactions on Machine Learning Research (TMLR), 2024.
+
 1. Understanding and Modeling Job Marketplace with Pretrained Language Models. [\[PDF\]](https://arxiv.org/pdf/2408.04381) <br>
 Yaochen Zhu, Liang Wu, **Binchi Zhang**, Song Wang, Qi Guo, Liangjie Hong, Luke Simon, Jundong Li. <br>
 ACM International Conference on Information and Knowledge Management (CIKM), Applied Research Paper, 2024.
