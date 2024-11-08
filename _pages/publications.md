@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 (**\*** indicates equal contribution)
-1. Federated Graph Learning with Graphless Clients. <br>
+1. Federated Graph Learning with Graphless Clients. [\[PDF\]](https://openreview.net/pdf?id=mVAp0eDfyR) <br>
 Xingbo Fu, Song Wang, Yushun Dong, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
 Transactions on Machine Learning Research (TMLR), 2024.
 
