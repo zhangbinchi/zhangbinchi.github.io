@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 (**\*** indicates equal contribution)
+1. Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning. <br>
+Xingbo Fu, Zihan Chen, Yinhan He, Song Wang, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
+AAAI Conference on Artificial Intelligence (AAAI), 2025.
+
 1. Federated Graph Learning with Graphless Clients. [\[PDF\]](https://arxiv.org/pdf/2411.08374) [\[Code\]](https://openreview.net/attachment?id=mVAp0eDfyR&name=supplementary_material) <br>
 Xingbo Fu, Song Wang, Yushun Dong, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
 Transactions on Machine Learning Research (TMLR), 2024.
