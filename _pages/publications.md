@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 (**\*** indicates equal contribution)
-1. Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning. <br>
+1. Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning. [\[PDF\]](https://arxiv.org/pdf/2412.19229) [\[Code\]](https://github.com/xbfu/FedVN) <br>
 Xingbo Fu, Zihan Chen, Yinhan He, Song Wang, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
 AAAI Conference on Artificial Intelligence (AAAI), 2025.
 
