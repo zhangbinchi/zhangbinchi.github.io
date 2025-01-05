@@ -15,6 +15,7 @@ Check out these awesome pieces:
 - Chopin [Ballade No. 3 in A-Flat Major, Op. 47](https://www.youtube.com/watch?v=zl-HM_38YYg), played by Rachmaninoff.
 - Chopin [Ballade No. 4 in F Minor, Op. 52](https://www.youtube.com/watch?v=pe-GrRQz8pk), played by Zimmerman.
 - Chopin [Piano Sonata No. 3 in B Minor, Op. 58](https://www.youtube.com/watch?v=2wPOUbjb8nw&t=116s), played by Argerich.
+- Chopin [Waltz No. 17 in E-Flat Major, Op. posth.](https://www.youtube.com/watch?v=_Tyog5T_PBw), played by Bunin.
 - Liszt [Études d'exécution transcendante, S.139, No. 11, Harmonies du soir](https://www.youtube.com/watch?v=JOZSUdhrQo0), played by Berezovsky.
 - Liszt [Années de pèlerinage I, S. 160: No 6. Vallée d'Obermann](https://www.youtube.com/watch?v=BZ2AqIzHSQw), played by Arrau.
 - Liszt [Harmonies poétiques et religieuses, S. 173, No. 3, Bénédiction de Dieu dans la solitude](https://www.youtube.com/watch?v=Irriduu-8tc), played by Arrau.
