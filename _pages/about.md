@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. student at the University of Virginia, advised by [Dr. Jundong Li](https://jundongli.github.io/). Before joining the University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked with [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include trustworthy machine learning, graph learning, machine unlearning, and federated learning. More details can be found in my [CV](https://zhangbinchi.github.io/files/CV_zbc.pdf).
+I am currently a third-year Ph.D. student at the University of Virginia, advised by [Dr. Jundong Li](https://jundongli.github.io/). Before joining the University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked with [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include trustworthy AI, machine unlearning, and graph mining. More details can be found in my [CV](https://zhangbinchi.github.io/files/CV_zbc.pdf).
 
 News
 -----
@@ -30,7 +30,7 @@ Service
 Miscellaneous
 -----
 - I like playing tennis and pool games.
-- I am an amateur classical piano player. My favorite composer is Chopin. Here are some of my favorite [classical pieces](https://zhangbinchi.github.io/pieces/).
+- I am an amateur classical piano player. My favorite composer is Chopin. Here are some of my favorite [piano pieces](https://zhangbinchi.github.io/pieces/).
 
 <!-- A data-driven personal website
 ======
