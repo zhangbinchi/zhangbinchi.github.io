@@ -1,5 +1,5 @@
 ---
-title: Classical Pieces
+title: Piano Pieces
 layout: single
 permalink: /pieces/
 ---
