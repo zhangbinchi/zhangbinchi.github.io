@@ -19,7 +19,8 @@ Check out these awesome pieces:
 - Liszt [Études d'exécution transcendante, S.139, No. 11, Harmonies du soir](https://www.youtube.com/watch?v=JOZSUdhrQo0), played by Berezovsky.
 - Liszt [Années de pèlerinage I, S. 160: No 6. Vallée d'Obermann](https://www.youtube.com/watch?v=BZ2AqIzHSQw), played by Arrau.
 - Liszt [Harmonies poétiques et religieuses, S. 173, No. 3, Bénédiction de Dieu dans la solitude](https://www.youtube.com/watch?v=Irriduu-8tc), played by Arrau.
-- Liszt [Piano Sonata in B Minor, S. 178](https://www.youtube.com/watch?v=JL_efKcbR2A), played by Horowitz.
+% - Liszt [Piano Sonata in B Minor, S. 178](https://www.youtube.com/watch?v=JL_efKcbR2A), played by Horowitz.
+- Liszt [Piano Sonata in B Minor, S. 178](https://www.youtube.com/watch?v=68EMzR3Ct78), played by Yundi Li.
 - Liszt [Mephisto Waltz No. 1, S. 514](https://www.youtube.com/watch?v=JPE83YfNcZY), played by Horowitz.
 - Debussy [Préludes, Book 2, L. 123, No. 12, Feux d'artifice](https://www.youtube.com/watch?v=bLyLu-z1wIQ), played by Zimmerman.
 - Ravel [Gaspard de la nuit, M. 55](https://www.youtube.com/watch?v=hTxX2WYYblo&t=858s), played by Michelangeli.
