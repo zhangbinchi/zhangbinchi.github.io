@@ -6,18 +6,22 @@ permalink: /pieces/
 
 Check out these awesome pieces:
 
-- Chopin [Nocturne in C Minor, Op. 48, No. 1](https://www.youtube.com/watch?v=h_vZtpjNKVE), played by Rubinstein.
+<!-- - Chopin [Nocturne in C Minor, Op. 48, No. 1](https://www.youtube.com/watch?v=h_vZtpjNKVE), played by Rubinstein. -->
+- Chopin [Nocturne in C Minor, Op. 48, No. 1](https://www.youtube.com/watch?v=tSAwZP8e-zQ), played by Seong-Jin Cho.
 - Chopin [Barcarolle in F-Sharp Major, Op. 60](https://www.youtube.com/watch?v=h19WVxSpask), played by Zimmerman.
 - Chopin [Andante Spianato et Grande Polonaise Brillante in E-Flat Major, Op. 22](https://www.youtube.com/watch?v=6N8VBYNF2LA), played by Yundi Li.
 - Chopin [Polonaise in F-Sharp Minor, Op. 44](https://www.youtube.com/watch?v=Lq-ScKoB_BY), played by Horowitz.
-- Chopin [Polonaise-Fantaisie in A-Flat Major, Op. 61](https://www.youtube.com/watch?v=7_AqTY0jkCM), played by Rubinstein.
+<!-- - Chopin [Polonaise-Fantaisie in A-Flat Major, Op. 61](https://www.youtube.com/watch?v=7_AqTY0jkCM), played by Rubinstein. -->
+- Chopin [Polonaise-Fantaisie in A-Flat Major, Op. 61](https://www.youtube.com/watch?v=DbrrSfy1ADA), played by Hamelin.
 - Chopin [Ballade No. 1 in G Minor, Op. 23](https://www.youtube.com/watch?v=X45xLfQGXaA), played by Michelangeli.
-- Chopin [Ballade No. 3 in A-Flat Major, Op. 47](https://www.youtube.com/watch?v=zl-HM_38YYg), played by Rachmaninoff.
-- Chopin [Ballade No. 4 in F Minor, Op. 52](https://www.youtube.com/watch?v=pe-GrRQz8pk), played by Zimmerman.
+<!-- - Chopin [Ballade No. 3 in A-Flat Major, Op. 47](https://www.youtube.com/watch?v=zl-HM_38YYg), played by Rachmaninoff. -->
+- Chopin [Ballade No. 3 in A-Flat Major, Op. 47](https://www.youtube.com/watch?v=BkPLDoZXlHQ), played by Zimmerman.
+<!-- - Chopin [Ballade No. 4 in F Minor, Op. 52](https://www.youtube.com/watch?v=pe-GrRQz8pk), played by Zimmerman. -->
+- Chopin [Ballade No. 4 in F Minor, Op. 52](https://www.youtube.com/watch?v=UMSwmDK-sTM), played by Kate Liu.
 - Chopin [Piano Sonata No. 3 in B Minor, Op. 58](https://www.youtube.com/watch?v=2wPOUbjb8nw&t=116s), played by Argerich.
-- Chopin [Waltz No. 17 in E-Flat Major, Op. posth.](https://www.youtube.com/watch?v=_Tyog5T_PBw), played by Bunin.
 - Liszt [Études d'exécution transcendante, S.139, No. 11, Harmonies du soir](https://www.youtube.com/watch?v=JOZSUdhrQo0), played by Berezovsky.
-- Liszt [Années de pèlerinage I, S. 160: No 6. Vallée d'Obermann](https://www.youtube.com/watch?v=BZ2AqIzHSQw), played by Arrau.
+<!-- - Liszt [Années de pèlerinage I, S. 160: No 6. Vallée d'Obermann](https://www.youtube.com/watch?v=BZ2AqIzHSQw), played by Arrau. -->
+- Liszt [Années de pèlerinage I, S. 160: No 6. Vallée d'Obermann](https://www.youtube.com/watch?v=AbnPiQ-VaBc), played by Kissin.
 - Liszt [Harmonies poétiques et religieuses, S. 173, No. 3, Bénédiction de Dieu dans la solitude](https://www.youtube.com/watch?v=Irriduu-8tc), played by Arrau.
 <!-- - Liszt [Piano Sonata in B Minor, S. 178](https://www.youtube.com/watch?v=JL_efKcbR2A), played by Horowitz. -->
 - Liszt [Piano Sonata in B Minor, S. 178](https://www.youtube.com/watch?v=68EMzR3Ct78), played by Yundi Li.
