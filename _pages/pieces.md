@@ -25,7 +25,7 @@ Check out these awesome pieces:
 - Scriabin [Etude in D-Sharp Minor, Op. 8, No. 12](https://www.youtube.com/watch?v=7ClDFmFmr0k), played by Horowitz.
 - Scriabin [Fantasie in B Minor, Op. 28](https://www.youtube.com/watch?v=sXjkxsj3cck), played by Hamelin.
 - Scriabin [Piano Sonata No. 4 in F-Sharp Major, Op. 30](https://www.youtube.com/watch?v=VUHYspRcaJc), played by Sofronitsky.
-- Scriabin [Vers la Flamme, Op. 72](https://www.youtube.com/watch?v=nl7PoEUjv7I), played by Horowitz.
+- Scriabin [Vers la Flamme, Op. 72](https://www.youtube.com/watch?v=MueioLajS2E), played by Horowitz.
 - Beethoven [Piano Sonata No. 21 in C Major, Op. 53: Movement III](https://www.youtube.com/watch?v=kbC9SbSt4TU), played by Gilels.
 - Beethoven [Piano Sonata No. 17 in D Minor, Op. 31: Movement III](https://www.youtube.com/watch?v=ncWiY0eSZyA), played by Sokolov.
 - Beethoven [Piano Sonata No. 23 in F Minor, Op. 57: Movement III](https://www.youtube.com/watch?v=1yCiFZvjfuU), played by Pollini.
@@ -43,4 +43,5 @@ Check out these awesome pieces:
 - Debussy [Préludes, Book 2, L. 123, No. 12, Feux d'artifice](https://www.youtube.com/watch?v=bLyLu-z1wIQ), played by Zimmerman.
 - Ravel [Gaspard de la nuit, M. 55](https://www.youtube.com/watch?v=hTxX2WYYblo&t=858s), played by Michelangeli.
 - Scriabin [Fantasie in B Minor, Op. 28](https://www.youtube.com/watch?v=Mvc2K_5JWho), played by Sofronitsky.
+- Scriabin [Vers la Flamme, Op. 72](https://www.youtube.com/watch?v=nl7PoEUjv7I), played by Horowitz.
 -->
