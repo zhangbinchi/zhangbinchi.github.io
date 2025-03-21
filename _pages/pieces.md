@@ -16,7 +16,8 @@ Check out these awesome pieces:
 - Chopin [Ballade No. 4 in F Minor, Op. 52](https://www.youtube.com/watch?v=UMSwmDK-sTM), played by Kate Liu.
 - Chopin [Piano Sonata No. 3 in B Minor, Op. 58](https://www.youtube.com/watch?v=2wPOUbjb8nw&t=116s), played by Argerich.
 - Liszt [Études d'exécution transcendante, S.139, No. 11, Harmonies du soir](https://www.youtube.com/watch?v=Hr2C6nc4iiM), played by Yunchan Lim.
-- Liszt [Années de pèlerinage I, S. 160: No 6. Vallée d'Obermann](https://www.youtube.com/watch?v=AbnPiQ-VaBc), played by Kissin.
+- Liszt [Années de pèlerinage I, S. 160: No. 6, Vallée d'Obermann](https://www.youtube.com/watch?v=AbnPiQ-VaBc), played by Kissin.
+- Liszt [Années de pèlerinage II, S. 161: No. 5, Sonetto 104 del Petrarca](https://www.youtube.com/watch?v=Z2Cn3u8VIw0), played by Arrau.
 - Liszt [Harmonies poétiques et religieuses, S. 173, No. 3, Bénédiction de Dieu dans la solitude](https://www.youtube.com/watch?v=Irriduu-8tc), played by Arrau.
 - Liszt [Piano Sonata in B Minor, S. 178](https://www.youtube.com/watch?v=68EMzR3Ct78), played by Yundi Li.
 - Debussy [Préludes, Book 2, L. 123, No. 12, Feux d'artifice](https://www.youtube.com/watch?v=jRQW_kajq54), played by Pollini.
