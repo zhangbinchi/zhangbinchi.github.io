@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. student at the University of Virginia, advised by [Dr. Jundong Li](https://jundongli.github.io/). Before joining the University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked with [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include trustworthy AI, machine unlearning, and graph mining. More details can be found in my [CV](https://zhangbinchi.github.io/files/CV_zbc.pdf).
+I am currently a third-year Ph.D. candidate at the University of Virginia, advised by [Dr. Jundong Li](https://jundongli.github.io/). Before joining the University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked with [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include trustworthy AI, machine unlearning, and graph mining. More details can be found in my [CV](https://zhangbinchi.github.io/files/CV_zbc.pdf).
 
 News
 -----
+- \[05/2025\] One paper is accepted by ICML 2025.
 - \[12/2024\] One paper is accepted by AAAI 2025.
 - \[10/2024\] One paper is accepted by TMLR.
 - \[08/2024\] Glad to receive the UVA ECE Department Wilson Bicentennial Grad Fellowship.
@@ -19,7 +20,7 @@ News
 - \[05/2024\] Two papers are accepted by KDD 2024.
 - \[05/2024\] Two papers are accepted by ICML 2024.
 - \[01/2024\] One paper is accepted by ICLR 2024.
-- \[12/2022\] One paper is accepted by SDM 2023.
+<!-- - \[12/2022\] One paper is accepted by SDM 2023. -->
 <!-- - \[09/2022\] One paper is accepted by SIGKDD Explorations. -->
 <!-- - \[09/2022\] One paper is accepted by NeurIPS 2022 Datasets and Benchmarks Track. -->
 
