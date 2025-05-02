@@ -66,7 +66,7 @@ ArXiv preprint arXiv:2502.00158, 2025.
 Song Wang, Yushun Dong, **Binchi Zhang**, Zihan Chen, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li. <br>
 ArXiv preprint arXiv:2405.11034, 2024.
 
-1. ELEGANT: Certified Defense on the Fairness of Graph Neural Networks. [\[PDF\]](https://arxiv.org/pdf/2311.02757) [\[Code\]](https://github.com/yushundong/ELEGANT) <br>
+1. Certified Defense on the Fairness of Graph Neural Networks. [\[PDF\]](https://arxiv.org/pdf/2311.02757) [\[Code\]](https://github.com/yushundong/ELEGANT) <br>
 Yushun Dong, **Binchi Zhang**, Hanghang Tong, Jundong Li. <br>
 ArXiv preprint arXiv:2311.02757, 2023.
 
