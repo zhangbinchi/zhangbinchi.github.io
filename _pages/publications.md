@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 (**\*** indicates equal contribution)
+1. Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion. [\[PDF\]](https://arxiv.org/pdf/2502.00264) [\[Code\]](https://github.com/zhengzaiyi/RotationSymmetry) <br>
+**Binchi Zhang\***, Zaiyi Zheng\*, Zhengzhang Chen, Jundong Li. <br>
+International Conference on Machine Learning (ICML), 2025 (spotlight).
+
 1. Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning. [\[PDF\]](https://arxiv.org/pdf/2412.19229) [\[Code\]](https://github.com/xbfu/FedVN) <br>
 Xingbo Fu, Zihan Chen, Yinhan He, Song Wang, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
 AAAI Conference on Artificial Intelligence (AAAI), 2025.
@@ -57,10 +61,6 @@ A short version is accepted to FedGraph @ CIKM 2022 (spotlight).
 1. Resolving Editing-Unlearning Conflicts: A Knowledge Codebook Framework for Large Language Model Updating. [\[PDF\]](https://arxiv.org/pdf/2502.00158) <br>
 **Binchi Zhang**, Zhengzhang Chen, Zaiyi Zheng, Jundong Li, Haifeng Chen. <br>
 ArXiv preprint arXiv:2502.00158, 2025.
-
-1. Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion. [\[PDF\]](https://arxiv.org/pdf/2502.00264) [\[Code\]](https://github.com/zhengzaiyi/RotationSymmetry) <br>
-**Binchi Zhang\***, Zaiyi Zheng\*, Zhengzhang Chen, Jundong Li. <br>
-ArXiv preprint arXiv:2502.00264, 2025.
 
 1. Safety in Graph Machine Learning: Threats and Safeguards. [\[PDF\]](https://arxiv.org/pdf/2405.11034) <br>
 Song Wang, Yushun Dong, **Binchi Zhang**, Zihan Chen, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li. <br>
