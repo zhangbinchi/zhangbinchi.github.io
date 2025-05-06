@@ -26,12 +26,13 @@ News
 
 Service
 ------
-- **Reviewer:** NeurIPS (2025, 2024, 2022), ICML (2025, 2024, 2022), AAAI (2025, 2024, 2023), AISTATS (2025), ICLR (2025), CIKM (2023), WWW (2023), TIFS (2024), TPAMI (2024), TKDD (2024), TNNLS (2023).
+- **Conference Reviewer:** NeurIPS (2025, 2024, 2022), ICML (2025, 2024, 2022), AAAI (2025, 2024, 2023), AISTATS (2025), ICLR (2025), WWW (2023), CIKM (2023).
+- **Journal Reviewer:** TPAMI, TIFS, TKDD, TNNLS.
 
 Miscellaneous
 -----
 - I like playing tennis and pool games.
-- I am an amateur classical piano player. My favorite composer is Chopin. Here are some of my favorite [piano pieces](https://zhangbinchi.github.io/pieces/).
+- I enjoy playing the piano. My favorite composer is Chopin. Here are some of my favorite [piano pieces](https://zhangbinchi.github.io/pieces/).
 
 <!-- A data-driven personal website
 ======
