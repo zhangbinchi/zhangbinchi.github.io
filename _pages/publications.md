@@ -4,7 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-(**\*** indicates equal contribution)
+
+## Tutorials
+
+1. Federated Graph Learning: Recent Advances and Future Directions. [\[Slides\]](https://zhangbinchi.github.io/files/fgl_tutorial_sdm25.pdf) <br>
+Xingbo Fu, Zihan Chen, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
+SIAM International Conference on Data Mining (SDM), 2025.
+
+## Papers (**\*** indicates equal contribution)
+
 1. Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion. [\[PDF\]](https://arxiv.org/pdf/2502.00264) [\[Code\]](https://github.com/zhengzaiyi/RotationSymmetry) <br>
 **Binchi Zhang\***, Zaiyi Zheng\*, Zhengzhang Chen, Jundong Li. <br>
 International Conference on Machine Learning (ICML), 2025 (spotlight).
