@@ -41,7 +41,7 @@ ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2024.
 **Binchi Zhang**, Zihan Chen, Cong Shen, Jundong Li. <br>
 International Conference on Machine Learning (ICML), 2024.
 
-1. Towards Certified Unlearning for Deep Neural Networks. [\[PDF\]](https://arxiv.org/pdf/2408.00920) [\[Code\]](https://github.com/zhangbinchi/certified-deep-unlearning) <br>
+1. Towards Certified Unlearning for Deep Neural Networks. [\[PDF\]](https://openreview.net/pdf?id=1mf1ISuyS3) [\[Errata\]](https://arxiv.org/pdf/2408.00920) [\[Code\]](https://github.com/zhangbinchi/certified-deep-unlearning) <br>
 **Binchi Zhang**, Yushun Dong, Tianhao Wang, Jundong Li. <br>
 International Conference on Machine Learning (ICML), 2024.
 
