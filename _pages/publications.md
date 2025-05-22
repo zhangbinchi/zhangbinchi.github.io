@@ -15,7 +15,7 @@ SIAM International Conference on Data Mining (SDM), 2025.
 
 1. Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion. [\[PDF\]](https://arxiv.org/pdf/2502.00264) [\[Code\]](https://github.com/zhengzaiyi/RotationSymmetry) <br>
 **Binchi Zhang\***, Zaiyi Zheng\*, Zhengzhang Chen, Jundong Li. <br>
-International Conference on Machine Learning (ICML), 2025 (spotlight).
+International Conference on Machine Learning (ICML), 2025 (Spotlight).
 
 1. Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning. [\[PDF\]](https://arxiv.org/pdf/2412.19229) [\[Code\]](https://github.com/xbfu/FedVN) <br>
 Xingbo Fu, Zihan Chen, Yinhan He, Song Wang, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
