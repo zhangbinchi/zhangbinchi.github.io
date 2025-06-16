@@ -64,7 +64,7 @@ Advances in Neural Information Processing Systems (NeurIPS), Datasets and Benchm
 1. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications. [\[PDF\]](https://arxiv.org/pdf/2207.11812) <br> 
 Xingbo Fu, **Binchi Zhang**, Yushun Dong, Chen Chen, Jundong Li. <br>
 SIGKDD Explorations Newsletter, 2022, 24(2): 32-47. <br>
-A short version is accepted to FedGraph @ CIKM 2022 (spotlight).
+A short version is accepted to FedGraph @ CIKM 2022 (Spotlight).
 
 1. Resolving Editing-Unlearning Conflicts: A Knowledge Codebook Framework for Large Language Model Updating. [\[PDF\]](https://arxiv.org/pdf/2502.00158) <br>
 **Binchi Zhang**, Zhengzhang Chen, Zaiyi Zheng, Jundong Li, Haifeng Chen. <br>
