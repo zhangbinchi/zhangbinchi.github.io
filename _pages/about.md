@@ -12,7 +12,7 @@ I am currently a fourth-year Ph.D. candidate at University of Virginia, advised 
 
 News
 -----
-- \[05/2025\] One paper is accepted by ICML 2025 as Spotlight.
+- \[05/2025\] One paper is accepted by ICML 2025 as a Spotlight Poster.
 - \[12/2024\] One paper is accepted by AAAI 2025.
 - \[10/2024\] One paper is accepted by TMLR.
 - \[08/2024\] Glad to receive the UVA ECE Department Wilson Bicentennial Grad Fellowship.
@@ -26,7 +26,7 @@ News
 
 Service
 ------
-- **Conference Reviewer:** NeurIPS (2025, 2024, 2022), ICML (2025, 2024, 2022), AAAI (2025, 2024, 2023), AISTATS (2025), ICLR (2025), WWW (2023), CIKM (2023).
+- **Conference Reviewer:** NeurIPS, ICML, ICLR, AAAI, AISTATS, TheWebConf, CIKM.
 - **Journal Reviewer:** TPAMI, TIFS, TKDD, TNNLS.
 
 Miscellaneous
