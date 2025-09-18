@@ -13,6 +13,10 @@ SIAM International Conference on Data Mining (SDM), 2025.
 
 ## Papers (**\*** indicates equal contribution)
 
+1. GraphTOP: Graph Topology-Oriented Prompting for Graph Neural Networks. <br>
+Xingbo Fu, Zhenyu Lei, Zihan Chen, **Binchi Zhang**, Chuxu Zhang, Jundong Li. <br>
+Advances in Neural Information Processing Systems (NeurIPS), 2025.
+
 1. Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion. [\[PDF\]](https://arxiv.org/pdf/2502.00264) [\[Code\]](https://github.com/zhengzaiyi/RotationSymmetry) <br>
 **Binchi Zhang\***, Zaiyi Zheng\*, Zhengzhang Chen, Jundong Li. <br>
 International Conference on Machine Learning (ICML), 2025 (Spotlight).
