@@ -13,6 +13,10 @@ SIAM International Conference on Data Mining (SDM), 2025.
 
 ## Papers (**\*** indicates equal contribution)
 
+1. Certified Defense on the Fairness of Graph Neural Networks. [\[PDF\]](https://arxiv.org/pdf/2311.02757) [\[Code\]](https://github.com/yushundong/ELEGANT) <br>
+Yushun Dong, **Binchi Zhang**, Hanghang Tong, Jundong Li. <br>
+ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2026.
+
 1. GraphTOP: Graph Topology-Oriented Prompting for Graph Neural Networks. [\[PDF\]](https://arxiv.org/pdf/2510.22451) [\[Code\]](https://github.com/xbfu/GraphTOP) <br>
 Xingbo Fu, Zhenyu Lei, Zihan Chen, **Binchi Zhang**, Chuxu Zhang, Jundong Li. <br>
 Advances in Neural Information Processing Systems (NeurIPS), 2025.
@@ -77,10 +81,6 @@ ArXiv preprint arXiv:2502.00158, 2025.
 1. Safety in Graph Machine Learning: Threats and Safeguards. [\[PDF\]](https://arxiv.org/pdf/2405.11034) <br>
 Song Wang, Yushun Dong, **Binchi Zhang**, Zihan Chen, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li. <br>
 ArXiv preprint arXiv:2405.11034, 2024.
-
-1. Certified Defense on the Fairness of Graph Neural Networks. [\[PDF\]](https://arxiv.org/pdf/2311.02757) [\[Code\]](https://github.com/yushundong/ELEGANT) <br>
-Yushun Dong, **Binchi Zhang**, Hanghang Tong, Jundong Li. <br>
-ArXiv preprint arXiv:2311.02757, 2023.
 
 1. Tackling the Local Bias in Federated Graph Learning. [\[PDF\]](https://arxiv.org/pdf/2110.12906) [\[Code\]](https://anonymous.4open.science/r/LocalBias-26B1) <br> 
 **Binchi Zhang**, Minnan Luo, Shangbin Feng, Ziqi Liu, Jun Zhou, Qinghua Zheng. <br>
