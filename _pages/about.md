@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year Ph.D. candidate at University of Virginia, advised by [Prof. Jundong Li](https://jundongli.github.io/). Before joining University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked with [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include Trustworthy AI, Large Language Models, and Modular Knowledge Management. More details can be found in my [CV](https://zhangbinchi.github.io/files/CV_zbc.pdf).
+I am currently a fourth-year Ph.D. candidate at University of Virginia, advised by [Prof. Jundong Li](https://jundongli.github.io/). Before joining University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked with [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include Trustworthy AI, Large Language Models, Graph Mining, and Modular Knowledge Management. More details can be found in my [CV](https://zhangbinchi.github.io/files/CV_zbc.pdf).
 
 News
 -----
