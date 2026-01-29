@@ -12,6 +12,7 @@ I am currently a fourth-year Ph.D. candidate at University of Virginia, advised 
 
 News
 -----
+- \[10/2024\] One paper is accepted by TKDE.
 - \[11/2025\] One paper is accepted by KDD 2026.
 - \[09/2025\] One paper is accepted by NeurIPS 2025.
 - \[05/2025\] One paper is accepted by ICML 2025 as a Spotlight poster.
@@ -19,7 +20,7 @@ News
 - \[10/2024\] One paper is accepted by TMLR.
 - \[08/2024\] Glad to receive the UVA ECE Department Wilson Bicentennial Grad Fellowship.
 - \[07/2024\] One paper is accepted by CIKM 2024.
-- \[05/2024\] Two papers are accepted by KDD 2024.
+<!-- - \[05/2024\] Two papers are accepted by KDD 2024. -->
 <!-- - \[05/2024\] Two papers are accepted by ICML 2024. -->
 <!-- - \[01/2024\] One paper is accepted by ICLR 2024. -->
 <!-- - \[12/2022\] One paper is accepted by SDM 2023. -->
