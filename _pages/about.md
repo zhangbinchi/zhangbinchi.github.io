@@ -12,7 +12,7 @@ I am currently a fourth-year Ph.D. candidate at University of Virginia, advised 
 
 News
 -----
-- \[10/2024\] One paper is accepted by TKDE.
+- \[01/2026\] One paper is accepted by TKDE.
 - \[11/2025\] One paper is accepted by KDD 2026.
 - \[09/2025\] One paper is accepted by NeurIPS 2025.
 - \[05/2025\] One paper is accepted by ICML 2025 as a Spotlight poster.
