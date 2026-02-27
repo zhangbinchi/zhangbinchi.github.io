@@ -78,6 +78,10 @@ Xingbo Fu, **Binchi Zhang**, Yushun Dong, Chen Chen, Jundong Li. <br>
 SIGKDD Explorations Newsletter, 2022, 24(2): 32-47. <br>
 A short version is accepted to FedGraph @ CIKM 2022 (Spotlight).
 
+1. Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models. [\[PDF\]](https://arxiv.org/pdf/2602.22475) <br>
+**Binchi Zhang**, Xujiang Zhao, Jundong Li, Haifeng Chen, Zhengzhang Chen. <br>
+ArXiv preprint arXiv:2602.22475, 2026.
+
 1. Resolving Editing-Unlearning Conflicts: A Knowledge Codebook Framework for Large Language Model Updating. [\[PDF\]](https://arxiv.org/pdf/2502.00158) <br>
 **Binchi Zhang**, Zhengzhang Chen, Zaiyi Zheng, Jundong Li, Haifeng Chen. <br>
 ArXiv preprint arXiv:2502.00158, 2025.
