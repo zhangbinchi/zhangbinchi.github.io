@@ -78,6 +78,10 @@ Xingbo Fu, **Binchi Zhang**, Yushun Dong, Chen Chen, Jundong Li. <br>
 SIGKDD Explorations Newsletter, 2022, 24(2): 32-47. <br>
 A short version is accepted to FedGraph @ CIKM 2022 (Spotlight).
 
+1. A Survey of Weight Space Learning: Understanding, Representation, and Generation. [\[PDF\]](https://arxiv.org/pdf/2603.10090) <br>
+Xiaolong Han, Zehong Wang, Bo Zhao, **Binchi Zhang**, Jundong Li, Damian Borth, Rose Yu, Haggai Maron, Yanfang Ye, Lu Yin, Ferrante Neri. <br>
+ArXiv preprint arXiv:2603.10090, 2026.
+
 1. Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models. [\[PDF\]](https://arxiv.org/pdf/2602.22475) <br>
 **Binchi Zhang**, Xujiang Zhao, Jundong Li, Haifeng Chen, Zhengzhang Chen. <br>
 ArXiv preprint arXiv:2602.22475, 2026.
