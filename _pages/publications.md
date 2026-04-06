@@ -13,6 +13,14 @@ SIAM International Conference on Data Mining (SDM), 2025.
 
 ## Papers (**\*** indicates equal contribution)
 
+1. LOKA: Conflict-Aware LLM Knowledge Update with Memory-Adaptive Knowledge Codebook. [\[PDF\]](https://arxiv.org/pdf/2502.00158) <br>
+**Binchi Zhang**, Zhengzhang Chen, Zaiyi Zheng, Jundong Li, Haifeng Chen. <br>
+Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
+
+1. Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models. [\[PDF\]](https://arxiv.org/pdf/2602.22475) <br>
+**Binchi Zhang**, Xujiang Zhao, Jundong Li, Haifeng Chen, Zhengzhang Chen. <br>
+Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
+
 1. Safety in Graph Machine Learning: Threats and Safeguards. [\[PDF\]](https://arxiv.org/pdf/2405.11034) <br>
 Song Wang, Yushun Dong, **Binchi Zhang**, Zihan Chen, Xingbo Fu, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li. <br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026.
@@ -81,14 +89,6 @@ A short version is accepted to FedGraph @ CIKM 2022 (Spotlight).
 1. A Survey of Weight Space Learning: Understanding, Representation, and Generation. [\[PDF\]](https://arxiv.org/pdf/2603.10090) <br>
 Xiaolong Han, Zehong Wang, Bo Zhao, **Binchi Zhang**, Jundong Li, Damian Borth, Rose Yu, Haggai Maron, Yanfang Ye, Lu Yin, Ferrante Neri. <br>
 ArXiv preprint arXiv:2603.10090, 2026.
-
-1. Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models. [\[PDF\]](https://arxiv.org/pdf/2602.22475) <br>
-**Binchi Zhang**, Xujiang Zhao, Jundong Li, Haifeng Chen, Zhengzhang Chen. <br>
-ArXiv preprint arXiv:2602.22475, 2026.
-
-1. Resolving Editing-Unlearning Conflicts: A Knowledge Codebook Framework for Large Language Model Updating. [\[PDF\]](https://arxiv.org/pdf/2502.00158) <br>
-**Binchi Zhang**, Zhengzhang Chen, Zaiyi Zheng, Jundong Li, Haifeng Chen. <br>
-ArXiv preprint arXiv:2502.00158, 2025.
 
 1. Tackling the Local Bias in Federated Graph Learning. [\[PDF\]](https://arxiv.org/pdf/2110.12906) [\[Code\]](https://anonymous.4open.science/r/LocalBias-26B1) <br> 
 **Binchi Zhang**, Minnan Luo, Shangbin Feng, Ziqi Liu, Jun Zhou, Qinghua Zheng. <br>
