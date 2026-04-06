@@ -13,11 +13,11 @@ SIAM International Conference on Data Mining (SDM), 2025.
 
 ## Papers (**\*** indicates equal contribution)
 
-1. LOKA: Conflict-Aware LLM Knowledge Update with Memory-Adaptive Knowledge Codebook. [\[PDF\]](https://arxiv.org/pdf/2502.00158) <br>
+1. LOKA: Conflict-Aware LLM Knowledge Update with Memory-Adaptive Knowledge Codebook. [\[PDF\]](https://arxiv.org/pdf/2502.00158)[\[Code\]](https://github.com/zhangbinchi/LOKA) <br>
 **Binchi Zhang**, Zhengzhang Chen, Zaiyi Zheng, Jundong Li, Haifeng Chen. <br>
 Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
 
-1. Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models. [\[PDF\]](https://arxiv.org/pdf/2602.22475) <br>
+1. Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models. [\[PDF\]](https://arxiv.org/pdf/2602.22475)[\[Code\]](https://github.com/zhangbinchi/CultureManager) <br>
 **Binchi Zhang**, Xujiang Zhao, Jundong Li, Haifeng Chen, Zhengzhang Chen. <br>
 Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
 
