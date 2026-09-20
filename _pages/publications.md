@@ -13,6 +13,10 @@ SIAM International Conference on Data Mining (SDM), 2025.
 
 ## Papers (**\*** indicates equal contribution)
 
+1. Enhancing Representation Learning of Text-Attributed Graphs in Federated Graph Learning. <br>
+Xingbo Fu, Zihan Chen, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
+Learning on Graphs Conference (LoG), 2026.
+
 1. LOKA: Conflict-Aware LLM Knowledge Update with Adaptive Knowledge Memory. [\[PDF\]](https://zhangbinchi.github.io/files/ACL_2026__LOKA_Camera_Ready.pdf)[\[Code\]](https://github.com/zhangbinchi/LOKA) <br>
 **Binchi Zhang**, Zhengzhang Chen, Zaiyi Zheng, Jundong Li, Haifeng Chen. <br>
 Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
