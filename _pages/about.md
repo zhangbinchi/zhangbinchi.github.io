@@ -16,6 +16,7 @@ I am graduating in Winter 2026 and am actively seeking full-time industry opport
 
 News
 -----
+- \[09/2026\] One paper is accepted by LoG 2026.
 - \[04/2026\] Two papers are accepted by ACL 2026.
 - \[01/2026\] One paper is accepted by TKDE.
 - \[11/2025\] One paper is accepted by KDD 2026.
@@ -23,7 +24,7 @@ News
 - \[05/2025\] One paper is accepted by ICML 2025 as a Spotlight poster.
 - \[12/2024\] One paper is accepted by AAAI 2025.
 - \[10/2024\] One paper is accepted by TMLR.
-- \[08/2024\] Glad to receive the UVA ECE Department Wilson Bicentennial Grad Fellowship.
+<!-- - \[08/2024\] Glad to receive the UVA ECE Department Wilson Bicentennial Grad Fellowship. -->
 <!-- - \[07/2024\] One paper is accepted by CIKM 2024. -->
 <!-- - \[05/2024\] Two papers are accepted by KDD 2024. -->
 <!-- - \[05/2024\] Two papers are accepted by ICML 2024. -->
