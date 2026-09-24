@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year Ph.D. candidate at University of Virginia, advised by [Prof. Jundong Li](https://jundongli.github.io/). Before joining University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked with [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include Responsible AI, Large Language Models, Graph Mining, and Parametric Knowledge Management. More details can be found in my [CV](https://zhangbinchi.github.io/files/autoCV.pdf).
+I am currently a final-year Ph.D. candidate at University of Virginia, advised by [Prof. Jundong Li](https://jundongli.github.io/). Before joining University of Virginia, I obtained my bachelor's degree at Xi'an Jiaotong University, where I worked with [Prof. Minnan Luo](https://gr.xjtu.edu.cn/web/minnluo). My research interests include Responsible AI, Large Language Models, Graph Mining, and Parametric Knowledge Management. More details can be found in my [CV](https://zhangbinchi.github.io/files/CV.pdf).
 
 <span style="color:#cc0000;">
 I am graduating in Winter 2026 and am actively seeking full-time industry opportunities. Please feel free to reach out.
