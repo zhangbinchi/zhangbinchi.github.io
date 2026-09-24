@@ -21,11 +21,11 @@ Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
 Xingbo Fu, Zihan Chen, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
 Learning on Graphs Conference (LoG), 2026.
 
-1. LOKA: Conflict-Aware LLM Knowledge Update with Adaptive Knowledge Memory. [\[PDF\]](https://zhangbinchi.github.io/files/ACL_2026__LOKA_Camera_Ready.pdf)[\[Code\]](https://github.com/zhangbinchi/LOKA) <br>
+1. LOKA: Conflict-Aware LLM Knowledge Update with Adaptive Knowledge Memory. [\[PDF\]](https://aclanthology.org/2026.acl-long.760.pdf)[\[Code\]](https://github.com/zhangbinchi/LOKA) <br>
 **Binchi Zhang**, Zhengzhang Chen, Zaiyi Zheng, Jundong Li, Haifeng Chen. <br>
 Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
 
-1. Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models. [\[PDF\]](https://zhangbinchi.github.io/files/ACL_2026_CultureManager_Camera_Ready.pdf)[\[Code\]](https://github.com/zhangbinchi/CultureManager) <br>
+1. Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models. [\[PDF\]](https://aclanthology.org/2026.acl-long.766.pdf)[\[Code\]](https://github.com/zhangbinchi/CultureManager) <br>
 **Binchi Zhang**, Xujiang Zhao, Jundong Li, Haifeng Chen, Zhengzhang Chen. <br>
 Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
 
