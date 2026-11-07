@@ -14,7 +14,7 @@ SIAM International Conference on Data Mining (SDM), 2025.
 ## Papers (**\*** indicates equal contribution)
 
 1. When Safety Becomes An Outlier: Understanding the Retention of LLM Safety Behaviors. <br>
-**Binchi Zhang\***, Hadi Abdullah\*, Yiwei Cai, Jundong Li. <br>
+**Binchi Zhang**, Hadi Abdullah, Yiwei Cai, Jundong Li. <br>
 Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
 
 1. Enhancing Representation Learning of Text-Attributed Graphs in Federated Graph Learning. <br>
