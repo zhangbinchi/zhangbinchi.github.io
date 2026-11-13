@@ -13,7 +13,7 @@ SIAM International Conference on Data Mining (SDM), 2025.
 
 ## Papers (**\*** indicates equal contribution)
 
-1. When Safety Becomes An Outlier: Understanding the Retention of LLM Safety Behaviors. <br>
+1. When Safety Becomes An Outlier: Understanding the Retention of LLM Safety Behaviors. [\[PDF\]](https://arxiv.org/pdf/2611.10971)[\[Code\]](https://github.com/zhangbinchi/natural-refusal) <br>
 **Binchi Zhang**, Hadi Abdullah, Yiwei Cai, Jundong Li. <br>
 Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
 
