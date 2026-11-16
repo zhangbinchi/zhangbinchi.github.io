@@ -17,7 +17,7 @@ SIAM International Conference on Data Mining (SDM), 2025.
 **Binchi Zhang**, Hadi Abdullah, Yiwei Cai, Jundong Li. <br>
 Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
 
-1. Enhancing Representation Learning of Text-Attributed Graphs in Federated Graph Learning. <br>
+1. Enhancing Representation Learning of Text-Attributed Graphs in Federated Graph Learning. [\[PDF\]](https://openreview.net/pdf?id=snLnJfOkS4)[\[Code\]](https://github.com/xbfu/FederatedTAG) <br>
 Xingbo Fu, Zihan Chen, **Binchi Zhang**, Chen Chen, Jundong Li. <br>
 Learning on Graphs Conference (LoG), 2026.
 
