@@ -16,14 +16,16 @@ I am graduating in Spring 2027 and am actively seeking full-time industry opport
 
 News
 -----
+- \[11/2026\] One paper is accepted by WSDM 2027 Demo Track.
+- \[10/2026\] Glad to receive the Olsen Graduate Fellowship from UVA Engineering School.
 - \[09/2026\] One paper is accepted by NeurIPS 2026.
 - \[09/2026\] One paper is accepted by LoG 2026.
 - \[04/2026\] Two papers are accepted by ACL 2026.
 - \[01/2026\] One paper is accepted by TKDE.
 - \[11/2025\] One paper is accepted by KDD 2026.
 - \[09/2025\] One paper is accepted by NeurIPS 2025.
-- \[05/2025\] One paper is accepted by ICML 2025 as a Spotlight poster.
-- \[12/2024\] One paper is accepted by AAAI 2025.
+<!-- - \[05/2025\] One paper is accepted by ICML 2025 as a Spotlight poster. -->
+<!-- - \[12/2024\] One paper is accepted by AAAI 2025. -->
 <!-- - \[10/2024\] One paper is accepted by TMLR. -->
 <!-- - \[08/2024\] Glad to receive the UVA ECE Department Wilson Bicentennial Grad Fellowship. -->
 <!-- - \[07/2024\] One paper is accepted by CIKM 2024. -->
