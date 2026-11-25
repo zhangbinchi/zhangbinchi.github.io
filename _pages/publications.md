@@ -13,6 +13,10 @@ SIAM International Conference on Data Mining (SDM), 2025.
 
 ## Papers (**\*** indicates equal contribution)
 
+1. Good Papers: Telling Which Research Papers Are Worth Reading. [\[Code\]](https://www.goodpapers.org/) <br>
+Zhenyu Lei, Shangbin Feng, Zhaoxuan Tan, **Binchi Zhang**, Zihan Chen, Ruocheng Guo, Heng Wang, Chenyang Qiu, Song Wang, Yushun Dong, Yue Zhao, Jundong Li. <br>
+ACM International Conference on Web Search and Data Mining (WSDM), 2027 (Demo Track).
+
 1. When Safety Becomes An Outlier: Understanding the Retention of LLM Safety Behaviors. [\[PDF\]](https://arxiv.org/pdf/2611.10971)[\[Code\]](https://github.com/zhangbinchi/natural-refusal) <br>
 **Binchi Zhang**, Hadi Abdullah, Yiwei Cai, Jundong Li. <br>
 Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
